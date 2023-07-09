@@ -1,0 +1,74 @@
+header{
+    background-color: #9db9ee;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 18px;
+    font-style:normal;
+    text-align-last: center;
+    margin: 8px
+} 
+header a{
+    color:white
+}
+.imagenlogo{
+    margin: 10px 20px 5px 20px;
+    text-align-last: left;
+}
+.imagenlogo p{
+    font-size: 24px;
+    font-weight: 600;
+    text-align-last: center;
+}
+
+.ingresar-registrarse {
+    font-size: 16px;
+    text-align-last: right;
+}
+
+.ingresar-registrarse a {
+    text-decoration: none;
+}
+.ingresar-registrarse a:hover{
+    background-color: blue;
+}
+
+body{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.contenido{
+    background-color: #F5FFFA;
+    margin: 20px
+}
+
+h2 {
+    margin: 15px 10px 15px 25px;
+    padding: 11px
+}
+
+.home {
+    height: auto;
+    font-size: 15px;
+    font-weight: 360;
+    color:black;
+    margin: 18px 35px 30px 35px;
+    display: flex;
+}
+
+.imag{
+    margin: 30px auto;
+    padding: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px
+}
+
+h3{
+    text-align-last: center;
+}
+.redessociales {
+    margin: 15px auto;
+    width: 18%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px
+}

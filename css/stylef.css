@@ -1,0 +1,35 @@
+header{
+    background-color: #9db9ee;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 18px;
+    font-style:normal;
+    text-align-last: center;
+    margin: 8px
+} 
+header a{
+    color:white
+}
+.imagenlogo{
+    margin: 10px 20px 5px 20px;
+    text-align-last: left;
+}
+.imagenlogo p{
+    font-size: 24px;
+    font-weight: 600;
+    text-align-last: center;
+}
+
+.ingresar-registrarse {
+    font-size: 16px;
+    text-align-last: right;
+}
+.ingresar-registrarse a {
+    text-decoration: none;
+}
+.ingresar-registrarse a:hover{
+    background-color: blue;
+}
+
+body{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}

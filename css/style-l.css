@@ -1,0 +1,33 @@
+header{
+    background-color: #9db9ee;
+    font-family:'Plus Jakarta Sans';
+    font-size: 18px;
+    font-style:normal;
+    text-align-last: center;
+} 
+header a{
+    color:white
+}
+#imagenlogo{
+    text-align-last: left;
+}
+#imagenlogo p{
+    font-size: 24px;
+    font-weight: 600;
+    text-align-last: center;
+}
+
+#ingresar-registrarse{
+    font-size: 16px;
+    text-align-last: right;
+}
+
+body{
+    font-family: "Plus Jakarta Sans";
+}
+
+#lore p{
+    font-size: 15px;
+    font-weight: 360;
+    color:black
+}
